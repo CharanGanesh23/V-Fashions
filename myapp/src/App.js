@@ -8,6 +8,7 @@ import Cart from "./pages/Cart";
 import { productsData } from "./api/api";
 import Category from "./components/category/Category";
 import Products from "./Products/Products";
+import "./App.scss"
 
 import Productt from "./components/Productt";
 
