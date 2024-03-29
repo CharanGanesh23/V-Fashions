@@ -16,7 +16,7 @@ const Productt = () => {
     setDetails(Location.state.data);
   },[Location])
   return (
-    <div>
+    <div className='maincontent'>
       <div className="max-w-screen-xl mx-auto my-10 flex gap-10">
         <div className="w-2/5 relative">
           <img
